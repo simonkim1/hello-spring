@@ -37,6 +37,11 @@ public class SpringConfig {
     }
 
 //    @Bean
+//    public TimeTraceAop timeTraceAop() {
+//        return new TimeTraceAop();
+//    }
+
+//    @Bean
 //    public MemberRepository memberRepository() {
 ////        return new MemoryMemberRepository(); // Memory에 저장
 ////        return new JdbcMemberRepository(dataSource); // 순수한 JDBC
